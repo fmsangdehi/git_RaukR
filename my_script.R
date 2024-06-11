@@ -1,2 +1,6 @@
 x <- 2
 y <- 3
+
+z <- x*y
+
+usethis::use_github()
